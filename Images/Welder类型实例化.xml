@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T09:57:25.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.0.8" etag="MDkvKNEapWR7N6bS6vZK" type="github"><diagram id="6OEmIOsbW_axiAyXWM44">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-06T10:16:37.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="Ph6xMdR6TGpMlgU3bfts" version="13.0.8" type="github">
+  <diagram id="6OEmIOsbW_axiAyXWM44" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-1" value="BaseObjcectType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-2" value="WelderType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-3" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="404" y="140" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-4" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="404" y="151" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-7" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="161" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-8" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="260" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-9" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="287" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-11" value="焊接电压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="274.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-12" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="335" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-13" value="焊接电流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="322.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-14" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="385" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-15" value="送丝速度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="372.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="432.5" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-17" value="寻位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-18" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="482.5" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-19" value="清枪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-20" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="533.5" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-21" value="使能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="521" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-22" value="WelderType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-23" value="" style="triangle;whiteSpace=wrap;html=1;direction=west;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="474" y="100" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-24" value="" style="triangle;whiteSpace=wrap;html=1;direction=west;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="485" y="100" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-25" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="110" width="10" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-26" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="260" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-27" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="287" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-28" value="焊接电压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="274.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-29" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="335" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-30" value="焊接电流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="322.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-31" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="385" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-32" value="送丝速度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="372.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-33" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="432.5" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-34" value="寻位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="420" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-35" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="482.5" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-36" value="清枪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="470" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-37" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="533.5" width="46" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-38" value="使能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="521" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-39" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="105" width="105" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-40" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="282" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-41" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-42" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-43" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="427.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-44" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="477.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-45" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="528.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-46" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="636" y="282" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-47" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="636" y="330" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-48" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="636" y="380" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-49" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="636" y="427.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-50" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="636" y="477.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vejxJrRurtkzS1a4S8Z9-51" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="636" y="528.5" width="10" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
